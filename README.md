@@ -4,8 +4,8 @@
 ## Profil
 | #               | Biodata             |
 | --------------- | ------------------- |
-| **Nama**        | Bilal AlHafidz      |
-| **NIM**         | 312110397           |
+| **Nama**        | Muhammad Farhan     |
+| **NIM**         | 312110128           |
 | **Kelas**       | TI.21.A.1           |
 | **Mata Kuliah** | Pemrograman Web 2   |
 
